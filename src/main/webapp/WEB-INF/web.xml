@@ -1,0 +1,15 @@
+<element>
+<web-app>
+<welcome-file-list>
+<welcome-file>NewFile.html</welcome-file>
+</welcome-file-list>
+<servlet>
+<servlet-name>gD</servlet-name>
+<servlet-class>grabDetails</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>gD</servlet-name>
+<url-pattern>grabDetails</url-pattern>
+</servlet-mapping>
+</web-app>
+</element>
